@@ -2,85 +2,61 @@
   {
     "id": 1,
     "name": "LeBron James",
-    "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F03%2Flebron-james-lakers-spell-statement-1.jpg?q=75&w=800&cbr=1&fit=max",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "image": "https://i.ebayimg.com/images/g/720AAOSwxDJcI9kB/s-l300.jpg"
   },
   {
     "id": 2,
     "name": "Serena Williams",
-    "image": "https://peopledotcom.files.wordpress.com/2018/08/serena-williams-23.jpg",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Serena_Williams_at_the_Australian_Open_2015.jpg/275px-Serena_Williams_at_the_Australian_Open_2015.jpg"
   },
   {
     "id": 3,
     "name": "Ken Griffey Jr.",
-    "image": "https://static1.squarespace.com/static/534db460e4b00c78ef71df39/t/5362cf38e4b0b6889d1b06d8/1398984505799/",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "image": "https://static1.squarespace.com/static/534db460e4b00c78ef71df39/t/5362cf38e4b0b6889d1b06d8/1398984505799/"
   },
   {
     "id": 4,
     "name": "Ronaldinho",
-    "image": "https://i.pinimg.com/originals/85/0b/f9/850bf97a047ff9c8e80c3f5075757258.jpg",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "image": "https://i.pinimg.com/originals/85/0b/f9/850bf97a047ff9c8e80c3f5075757258.jpg"
   },
   {
     "id": 5,
     "name": "Allen Iverson",
-    "image": "https://cdn.bleacherreport.net/images_root/slides/photos/000/632/208/72317441_original.jpg?1294883547",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "image": "https://cdn.bleacherreport.net/images_root/slides/photos/000/632/208/72317441_original.jpg?1294883547"
   },
   {
     "id": 6,
     "name": "Carson Wentz",
-    "image": "https://fsa.zobj.net/crop.php?r=kibG0fS9irCpK1UFbOtdSzMydTevCFHadYrvdmSYiusKIyxVMqi-n2NeglP7sHfy-SuMik3FTXngdCERAX-mbXKb3_Z6XQG0eMLuf4JAAo_Ip3dVETIIsnl2po97xCaljxQdp1CzfLTEEdiq",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "image": "https://fsa.zobj.net/crop.php?r=kibG0fS9irCpK1UFbOtdSzMydTevCFHadYrvdmSYiusKIyxVMqi-n2NeglP7sHfy-SuMik3FTXngdCERAX-mbXKb3_Z6XQG0eMLuf4JAAo_Ip3dVETIIsnl2po97xCaljxQdp1CzfLTEEdiq"
   },
   {
     "id": 7,
     "name": "Carli Lloyd",
-    "image": "https://image.cnbcfm.com/api/v1/image/105992450-1561673136489gettyimages-479588362.jpeg?v=1561673182&w=1400&h=950",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAD3hbI.img?h=937&w=624&m=6&q=60&o=f&l=f&x=642&y=391"
   },
   {
     "id": 8,
     "name": "Joel Embiid",
-    "image": "https://thenypost.files.wordpress.com/2019/04/joel-embiid-2.jpg?quality=90&strip=all",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "image": "data:image/jpeg;base64,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"
   },
   {
     "id": 9,
     "name": "Derek Jeter",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/417VKYgvd3L.jpg",
-    "occupation": "Adventurer",
-    "location": "California"
+    "image": "https://images-na.ssl-images-amazon.com/images/I/417VKYgvd3L.jpg"
   },
   {
     "id": 10,
     "name": "Brian Dawkins",
-    "image": "https://cdn.shopify.com/s/files/1/0589/1069/products/Eagles_Brian_Dawkins_Smoke_-_AAIL235_11b06d90-4e4f-4784-a7ae-ec7a6474768b_1024x1024.jpg?v=1530225980",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "image": "https://cdn.shopify.com/s/files/1/0589/1069/products/Eagles_Brian_Dawkins_Smoke_-_AAIL235_11b06d90-4e4f-4784-a7ae-ec7a6474768b_1024x1024.jpg?v=1530225980"
   },
   {
     "id": 11,
     "name": "Skylar Diggins",
-    "image": "https://gazettereview.com/wp-content/uploads/2018/05/skylar-diggins.jpg",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "image": "https://media1.popsugar-assets.com/files/thumbor/Ngb6YRhWcio5-jFztUL_xAbszPc/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2018/05/24/984/n/1922729/4443ad715b073ed526d537.10559076_/i/Who-WNBA-Player-Skylar-Diggins-Smith.jpg"
   },
   {
     "id": 12,
     "name": "Dr. J",
-    "image": "https://imgc.allpostersimages.com/img/print/u-g-F92MFZ0.jpg?w=550&h=550&p=0",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "image": "https://imgc.allpostersimages.com/img/print/u-g-F92MFZ0.jpg?w=550&h=550&p=0"
   }
 ]
