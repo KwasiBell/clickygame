@@ -59,7 +59,7 @@ class App extends React.Component {
   render() {
     return (
       <Wrapper>
-        <Header score={this.state.score} highscore={this.state.highscore}>Athlete Clicky Game</Header>
+        <Header score={this.state.score} highscore={this.state.highScore}>Athlete Clicky Game</Header>
         {this.state.cardsArray.map(card => (
           <Card
             clickCount={this.handleClick}
